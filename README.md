@@ -2,6 +2,8 @@
 ## Introduction
 Kubernetes is a powerful open-source system for managing containerized applications in a clustered environment. Its focus is to improve how related, distributed components and services are managed across varied infrastructure.
 
+DigitalOcean Kubernetes is a managed Kubernetes service lets users deploy scalable and secure Kubernetes clusters without the complexities of administrating the control plane. In this challenge, we would be deploying a scalable MongoDB cluster on Kubernetes.
+
 ## Prerequisites
 - [DigitalOcean account](https://cloud.digitalocean.com/)
 - [Kubernetes CLI - kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)
