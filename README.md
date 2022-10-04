@@ -169,5 +169,3 @@ The deployment and pods can also be viewed from the terminal.
 
 ![terminal.jpg](images/terminal.jpg)
 
-## Conclusion
-We have successfully deployed a MongoDB instance on k8s cluster using DigitalOcean Kubernetes.
